@@ -1,20 +1,17 @@
 import java.util.ArrayList;
 
-
-
-private ArrayList<Integer> digitList;
-
-public Digits()
-{
-}
 public class Digits
 {
- 
- public Digits(int num)
+   private ArrayList<Integer>list = new  ArrayList<Integer>();
  {
-    digitList = new ArrayList<Integer>();
-   {
-      
+     public Digits(int numbs);
+     {
+         if(n==0)
+         return 0;
+         
+    
+     
+    } 
+   }   
 }
-}
-}
+        
